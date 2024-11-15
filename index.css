@@ -1,0 +1,23 @@
+*{
+    background-color: silver;
+}
+
+h1{
+    color: red;
+}
+#heading{
+    color: lightslategray;
+}
+ #div{
+color: blue;
+ }
+ .class{
+    color: green;
+ }
+ h2{
+    background: red;
+    color: aquamarine;
+ }
+ #first,#second{
+    color: blueviolet;
+ }
